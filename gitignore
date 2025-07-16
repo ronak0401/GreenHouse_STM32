@@ -1,0 +1,13 @@
+*.axf
+*.hex
+*.bin
+*.o
+*.d
+*.lst
+*.map
+*.crf
+*.dep
+*.htm
+*.tra
+*.log
+build/
