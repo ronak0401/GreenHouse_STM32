@@ -25,3 +25,6 @@ This project reads temperature using a DHT11 sensor, displays it on a 2-digit 7-
 ## 📁 Project Structure
 
 ## Author Ronak Agarwal,Rahil Khan
+![WhatsApp Image 2025-07-01 at 15 43 24_1eeda267](https://github.com/user-attachments/assets/48a673fa-de49-4417-8a9c-6189fe32c857)
+
+
